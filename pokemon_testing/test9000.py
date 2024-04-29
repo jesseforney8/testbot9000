@@ -32,6 +32,7 @@ def pokedex_lookup(name):
     
     #for x in pokemon_.moves:
      #   print(x.move)
+#testinggggggg
 
     
 
