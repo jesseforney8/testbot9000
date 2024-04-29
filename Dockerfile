@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY discord/requirements.txt .
 
-COPY pokemon_desting/ .
+COPY pokemon_testing/ .
 
 RUN pip install -r requirements.txt
 
